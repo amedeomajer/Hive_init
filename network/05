@@ -1,1 +1,1 @@
-nslookup who.int | grep 'Non' -A 2 |  tail -c 39
+nslookup who.int
